@@ -1,5 +1,5 @@
 # !/bin/bash
-count=1
+count=2
 while [ $count -lt 254 ]
 do
     export MENU_OPTION="1"
